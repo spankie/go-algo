@@ -21,3 +21,7 @@ func ReverseWithOtherChars(str string) string {
 	}
 	return reversed
 }
+
+func reverseWithTwoPointers(s string) {
+
+}
